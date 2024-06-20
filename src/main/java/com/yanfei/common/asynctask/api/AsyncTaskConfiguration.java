@@ -6,8 +6,8 @@ import org.springframework.context.annotation.ComponentScan;
 import org.springframework.context.annotation.Configuration;
 
 @Configuration
-@MapperScan(value = {"com.centchain.trgroup.common.asynctask.db.mapper"})
-@ComponentScan(value = {"com.centchain.trgroup.common.asynctask"})
+@MapperScan(value = {"com.yanfei.common.asynctask.db.mapper"})
+@ComponentScan(value = {"com.yanfei.common.asynctask"})
 public class AsyncTaskConfiguration {
 
 }

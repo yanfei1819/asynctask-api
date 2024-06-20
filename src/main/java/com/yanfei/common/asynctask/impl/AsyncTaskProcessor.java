@@ -4,7 +4,7 @@ import com.yanfei.common.asynctask.api.AsyncTask;
 import com.yanfei.common.asynctask.api.AsyncTaskSetter;
 import com.yanfei.common.asynctask.db.dto.AsyncTaskDto;
 import com.yanfei.common.asynctask.db.mapper.AsyncTaskMapper;
-import com.centchain.trgroup.common.asynctask.entity.*;
+import com.yanfei.common.asynctask.entity.*;
 import com.yanfei.common.asynctask.entity.AsyncTaskEntity;
 import com.yanfei.common.asynctask.entity.AsyncTaskState;
 import com.yanfei.common.asynctask.err.ConcurrentUpdateException;
